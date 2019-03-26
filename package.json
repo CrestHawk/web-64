@@ -1,0 +1,25 @@
+{
+  "name": "web-64",
+  "version": "1.0.0",
+  "description": "A node express api for managing a game collection",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestHawk/web-64.git"
+  },
+  "author": "Tom Davies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestHawk/web-64/issues"
+  },
+  "homepage": "https://github.com/CrestHawk/web-64#readme",
+  "dependencies": {
+    "@types/express": "4.16.1",
+    "express": "4.16.4",
+    "gulp": "4.0.0",
+    "typescript": "3.3.4"
+  }
+}
