@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/CrestHawk/web-64#readme",
   "dependencies": {
-    "@types/express": "4.16.1",
+    "chai": "4.1.0",
     "express": "4.16.4",
     "gulp": "4.0.0",
     "typescript": "3.3.4000"
+  },
+  "devDependencies": {
+    "@types/chai": "4.1.7",
+    "@types/express": "4.16.1",
+    "mocha": "6.0.2"
   }
 }
